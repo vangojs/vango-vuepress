@@ -1,0 +1,25 @@
+{
+  "name": "@vango-design/vuepress-theme-vango",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vewpress",
+    "theme",
+    "vango"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vango-design/vuepress-theme-vango.git",
+    "directory": "packages/vuepress-theme-vango"
+  },
+  "homepage": "https://github.com/vango-design/vuepress-theme-vango",
+  "bugs": "https://github.com/vango-design/vuepress-theme-vango/issues",
+  "authors": [
+    "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
+  ],
+  "license": "MIT"
+}
