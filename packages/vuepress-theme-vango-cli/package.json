@@ -1,5 +1,5 @@
 {
-  "name": "@vango-design/vuepress-theme-vango-cli",
+  "name": "@vangojs/vuepress-theme-vango-cli",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -14,11 +14,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vango-design/vuepress-theme-vango.git",
+    "url": "git+https://github.com/vangojs/vuepress-theme-vango.git",
     "directory": "packages/vuepress-theme-vango-cli"
   },
-  "homepage": "https://github.com/vango-design/vuepress-theme-vango",
-  "bugs": "https://github.com/vango-design/vuepress-theme-vango/issues",
+  "homepage": "https://github.com/vangojs/vuepress-theme-vango",
+  "bugs": "https://github.com/vangojs/vuepress-theme-vango/issues",
   "authors": [
     "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
   ],
