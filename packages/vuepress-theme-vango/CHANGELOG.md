@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.2-alpha.0](https://github.com/vangojs/vuepress-theme-vango/compare/@vangojs/vuepress-theme-vango@0.0.1-alpha.0...@vangojs/vuepress-theme-vango@0.0.2-alpha.0) (2020-01-01)
+
+
+### Features
+
+* public ([3cee0d7](https://github.com/vangojs/vuepress-theme-vango/commit/3cee0d736528c0e4507971722cb4f9fe0230dbcb))
+
+
+
+
+
 ## 0.0.1-alpha.0 (2020-01-01)
 
 
