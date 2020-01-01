@@ -13,11 +13,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vangojs/vuepress-theme-vango.git",
+    "url": "git+https://github.com/vangojs/vango-vuepress.git",
     "directory": "packages/vuepress-theme-vango"
   },
   "homepage": "https://vangojs.com",
-  "bugs": "https://github.com/vangojs/vuepress-theme-vango/issues",
+  "bugs": "https://github.com/vangojs/vango-vuepress/issues",
   "authors": [
     "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
   ],
