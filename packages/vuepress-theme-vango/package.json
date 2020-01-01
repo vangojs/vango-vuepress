@@ -16,7 +16,7 @@
     "url": "git+https://github.com/vangojs/vuepress-theme-vango.git",
     "directory": "packages/vuepress-theme-vango"
   },
-  "homepage": "https://github.com/vangojs/vuepress-theme-vango",
+  "homepage": "https://vangojs.com",
   "bugs": "https://github.com/vangojs/vuepress-theme-vango/issues",
   "authors": [
     "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
