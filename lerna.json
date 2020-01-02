@@ -7,7 +7,7 @@
       "pr(dependency)": ":deciduous_tree: Dependency",
       "pr(chore)": ":turtle: Chore"
     },
-    "repo": "vangojs/vuepress-theme-vango",
+    "repo": "vangojs/vango-vuepress",
     "cacheDir": ".changelog"
   },
   "packages": [
