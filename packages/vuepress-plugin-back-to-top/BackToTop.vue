@@ -28,37 +28,22 @@
 </template>
 
 <script>
-import debounce from 'lodash.debounce'
+const THRESHOLD = 300
 export default {
   name: 'BackToTop',
-  props: {
-    threshold: {
-      type: Number,
-      default: 300,
-    },
-    showPercent: {
-      type: Boolean,
-      default: false,
-    },
-  },
   data() {
     return {
-      scrollTop: null,
+      scrollTop: 0,
     }
   },
   computed: {
     show() {
-      return this.scrollTop > this.threshold
+      return this.scrollTop > THRESHOLD
     },
   },
   mounted() {
     this.scrollTop = this.getScrollTop()
-    window.addEventListener(
-      'scroll',
-      debounce(() => {
-        this.scrollTop = this.getScrollTop()
-      }, 100),
-    )
+    window.addEventListener('scroll', () => (this.scrollTop = this.getScrollTop()))
   },
   methods: {
     getScrollTop() {

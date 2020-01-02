@@ -24,8 +24,5 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  },
-  "dependencies": {
-    "lodash.debounce": "^4.0.8"
   }
 }
