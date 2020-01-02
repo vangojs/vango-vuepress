@@ -29,7 +29,7 @@ module.exports = ctx => ({
   themeConfig: {
     repo: 'vangojs/vango-vuepress',
     editLinks: true,
-    docsDir: 'samples/samples',
+    docsDir: 'packages/docs/docs',
     // #697 Provided by the official algolia team.
     algolia: ctx.isProd ? ({
       apiKey: '3a539aab83105f01761a137c61004d85',

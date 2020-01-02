@@ -1,8 +1,8 @@
 {
-  "name": "samples",
-  "version": "1.2.0",
+  "name": "docs",
+  "version": "0.0.0",
   "private": true,
-  "description": "samples of Vango VuePress",
+  "description": "docs of Vango VuePress",
   "keywords": [
     "documentation",
     "generator",
@@ -14,18 +14,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vangojs/vango-vuepress.git"
+    "url": "git+https://github.com/vangojs/vango-vuepress.git",
+    "directory": "packages/docs"
   },
   "license": "MIT",
   "author": "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)",
   "scripts": {
-    "build": "vuepress build samples --temp .temp",
-    "dev": "vuepress dev samples --temp .temp",
+    "build": "vuepress build docs --temp .temp",
+    "dev": "vuepress dev docs --temp .temp",
     "lint-md": "yarn lint-md:style && yarn lint-md:wording",
     "lint-md:style": "remark --quiet --frail .",
-    "lint-md:wording": "textlint ./samples/**/*.md",
+    "lint-md:wording": "textlint ./docs/**/*.md",
     "show-help": "vuepress --help",
-    "view-info": "vuepress view-info samples --temp .temp"
+    "view-info": "vuepress view-info docs --temp .temp"
   },
   "devDependencies": {
     "@textlint-rule/textlint-rule-no-unmatched-pair": "1.0.7",
