@@ -1,5 +1,7 @@
 # Vango for vuepress
 
+[vuepress-plugin-back-to-top](packages/vuepress-plugin-back-to-top): .
+
 [vuepress-plugin-baidu-analytics](packages/vuepress-plugin-baidu-analytics): .
 
 [vuepress-plugin-google-analytics](packages/vuepress-plugin-google-analytics): .
@@ -24,6 +26,7 @@ These are the available plugins in this repository.
 
 | Plugin | Npm |
 |--------|-----|
+| [@vangojs/vuepress-plugin-back-to-top](./packages/vuepress-plugin-back-to-top) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-back-to-top)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-back-to-top) |
 | [@vangojs/vuepress-plugin-baidu-analytics](./packages/vuepress-plugin-baidu-analytics) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-baidu-analytics)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-baidu-analytics) |
 | [@vangojs/vuepress-plugin-google-analytics](./packages/vuepress-plugin-google-analytics) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-google-analytics)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-google-analytics) |
 | [@vangojs/vuepress-theme-vango](./packages/vuepress-theme-vango) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-theme-vango)](https://www.npmjs.com/package/@vangojs/vuepress-theme-vango) |
