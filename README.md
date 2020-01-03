@@ -32,6 +32,15 @@ These are the available plugins in this repository.
 | [@vangojs/vuepress-theme-vango](./packages/vuepress-theme-vango) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-theme-vango)](https://www.npmjs.com/package/@vangojs/vuepress-theme-vango) |
 | [@vangojs/vuepress-theme-vango-cli](./packages/vuepress-theme-vango-cli) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-theme-vango-cli)](https://www.npmjs.com/package/@vangojs/vuepress-theme-vango-cli) |
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 
