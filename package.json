@@ -1,9 +1,17 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/@vangojs/*",
+    "packages/docs"
+  ],
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "pub": "lerna publish",
+    "build:docs": "yarn workspace docs build",
+    "dev:docs": "yarn workspace docs dev",
+    "show-help": "yarn workspace docs show-help",
+    "view-info": "yarn workspace docs view-info",
     "precommit": "lint-staged",
     "codecov": "codecov",
     "coveralls": "cat ./coverage/lcov.info | coveralls",

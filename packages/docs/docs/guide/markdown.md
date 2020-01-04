@@ -313,39 +313,6 @@ module.exports = {
   }
 </style>
 
-## Import Code Snippets <Badge text="beta" type="warning"/>
-
-You can import code snippets from existing files via following syntax:
-
-``` md
-<<< @/filepath
-```
-
-It also supports [line highlighting](#line-highlighting-in-code-blocks):
-
-``` md
-<<< @/filepath{highlightLines}
-```
-
-**Input**
-
-``` md
-<<< @/../@vuepress/markdown/__tests__/fragments/snippet.js{2}
-```
-
-**Output**
-
-<!--lint disable strong-marker-->
-
-<<< @/../@vuepress/markdown/__tests__/fragments/snippet.js{2}
-
-<!--lint enable strong-marker-->
-
-::: tip
-Since the import of the code snippets will be executed before webpack compilation, you can’t use the path alias in webpack. The default value of `@` is `process.cwd()`.
-:::
-
-
 ## Advanced Configuration
 
 VuePress uses [markdown-it](https://github.com/markdown-it/markdown-it) as the Markdown renderer. A lot of the extensions above are implemented via custom plugins. You can further customize the `markdown-it` instance using the `markdown` option in `.vuepress/config.js`:

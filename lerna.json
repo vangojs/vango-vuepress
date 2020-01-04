@@ -10,14 +10,12 @@
     "repo": "vangojs/vango-vuepress",
     "cacheDir": ".changelog"
   },
-  "packages": [
-    "packages/@vangojs/*"
-  ],
   "command": {
     "publish": {
       "conventionalCommits": true
     }
   },
+  "useWorkspaces": true,
   "version": "independent",
   "npmClient": "yarn"
 }
