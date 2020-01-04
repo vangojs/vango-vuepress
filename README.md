@@ -1,5 +1,9 @@
 # Vango for vuepress
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [vuepress-plugin-back-to-top](packages/vuepress-plugin-back-to-top): .
 
 [vuepress-plugin-baidu-analytics](packages/vuepress-plugin-baidu-analytics): .
