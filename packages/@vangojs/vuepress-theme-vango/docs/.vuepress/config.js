@@ -1,6 +1,8 @@
 const path = require('path')
 
 module.exports = {
+  dest: '../../../vuepress',
+
   title: 'vuepress-theme-vango',
 
   description: 'vuepress-theme-vango',

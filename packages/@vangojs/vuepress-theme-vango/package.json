@@ -2,33 +2,27 @@
   "name": "@vangojs/vuepress-theme-vango",
   "version": "0.0.2-alpha.0",
   "description": "",
-  "files": [
-    "src"
-  ],
-  "main": "src/index.js",
-  "scripts": {
-    "build": "vuepress build docs --dest docs-dist",
-    "dev": "vuepress dev docs --no-cache --temp .temp",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "vewpress",
     "theme",
     "vango"
   ],
+  "homepage": "https://vangojs.com",
+  "bugs": "https://github.com/vangojs/vango-vuepress/issues",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vangojs/vango-vuepress.git",
     "directory": "packages/vuepress-theme-vango"
   },
-  "homepage": "https://vangojs.com",
-  "bugs": "https://github.com/vangojs/vango-vuepress/issues",
-  "authors": [
-    "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
-  ],
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
+  "files": [
+    "src"
+  ],
+  "main": "src/index.js",
+  "scripts": {
+    "build": "vuepress build docs --temp .temp",
+    "dev": "vuepress dev docs --temp .temp",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "@vue/babel-helper-vue-jsx-merge-props": "^1.0.0",
@@ -47,5 +41,11 @@
   },
   "peerDependencies": {
     "vuepress": "^1.0.0"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Ying Wang <upcwangying@gmail.com> (https://github.com/upcwangying)"
+  ]
 }
