@@ -1,8 +1,11 @@
 # Vango for vuepress
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/85854f43-d48d-4d8b-917b-f849046e5625/deploy-status)](https://app.netlify.com/sites/vangojs-vuepress/deploys)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fvuepress.vangojs.com)](https://vuepress.vangojs.com)
+![GitHub repo size](https://img.shields.io/github/repo-size/vangojs/vango-vuepress)
+![GitHub last commit](https://img.shields.io/github/last-commit/vangojs/vango-vuepress)
+[![GitHub](https://img.shields.io/github/license/vangojs/vango-vuepress)](https://github.com/vangojs/vango-vuepress/blob/master/LICENSE.md)
+![GitHub contributors](https://img.shields.io/github/contributors/vangojs/vango-vuepress)
 
 [vuepress-plugin-back-to-top](packages/vuepress-plugin-back-to-top): .
 
