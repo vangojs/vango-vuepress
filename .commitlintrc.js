@@ -12,9 +12,9 @@ module.exports = {
       2,
       'always',
       [
-        'cli',
+        'docs',
         ...VangoPackages
-      ].map(name => `$${name}`)
+      ].map(name => `$${name}`).concat('release')
     ]
   }
 }

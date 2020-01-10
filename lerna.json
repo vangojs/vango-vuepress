@@ -1,20 +1,13 @@
 {
-  "changelog": {
-    "labels": {
-      "pr(enhancement)": ":rocket: Enhancement",
-      "pr(bug)": ":bug: Bug Fix",
-      "pr(documentation)": ":book: Documentation",
-      "pr(dependency)": ":deciduous_tree: Dependency",
-      "pr(chore)": ":turtle: Chore"
-    },
-    "repo": "vangojs/vango-vuepress",
-    "cacheDir": ".changelog"
-  },
   "command": {
     "publish": {
       "conventionalCommits": true
+    },
+    "version": {
+      "message": "chore(release): publish"
     }
   },
+  "ignoreChanges": ["**/examples/**", "**/__tests__/**", "**/tests/**"],
   "useWorkspaces": true,
   "version": "independent",
   "npmClient": "yarn"

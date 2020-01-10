@@ -56,4 +56,4 @@ These are the available plugins in this repository.
 
 ## License
 
-MIT
+[MIT](https://github.com/vangojs/vango-vuepress/blob/master/LICENSE.md)
