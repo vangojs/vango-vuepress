@@ -1,4 +1,4 @@
-# vuepress plugin back to top
+# @vangojs/vuepress-plugin-back-to-top
 
 
 

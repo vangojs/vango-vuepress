@@ -7,15 +7,15 @@
 [![GitHub](https://img.shields.io/github/license/vangojs/vango-vuepress)](https://github.com/vangojs/vango-vuepress/blob/master/LICENSE.md)
 ![GitHub contributors](https://img.shields.io/github/contributors/vangojs/vango-vuepress)
 
-[vuepress-plugin-back-to-top](packages/vuepress-plugin-back-to-top): .
+[@vangojs/cli](packages/@vangojs/cli): .
 
-[vuepress-plugin-baidu-analytics](packages/vuepress-plugin-baidu-analytics): .
+[@vangojs/vuepress-plugin-back-to-top](packages/@vangojs/vuepress-plugin-back-to-top): .
 
-[vuepress-plugin-google-analytics](packages/vuepress-plugin-google-analytics): .
+[@vangojs/vuepress-plugin-baidu-analytics](packages/@vangojs/vuepress-plugin-baidu-analytics): .
 
-[vuepress-theme-vango](packages/vuepress-theme-vango): .
+[@vangojs/vuepress-plugin-google-analytics](packages/@vangojs/vuepress-plugin-google-analytics): .
 
-[vuepress-theme-vango-cli](packages/vuepress-theme-vango-cli): .
+[@vangojs/vuepress-theme-vango](packages/@vangojs/vuepress-theme-vango): .
 
 ## Issues
 
@@ -25,7 +25,7 @@ repo](https://github.com/vangojs/vango-vuepress/issues/new).
 ## Contributing
 
 If you wish to contribute a change to any of the existing plugins in this repo,
-please review our [contribution guide](https://github.com/vangojs/vango-vuepress/blob/master/CONTRIBUTING.md),
+please review our [contribution guide](https://github.com/upcwangying/vango-vuepress/blob/master/.github/CONTRIBUTING.md),
 and send a [pull request](https://github.com/vangojs/vango-vuepress/pulls).
 
 ## Plugins
@@ -33,11 +33,11 @@ These are the available plugins in this repository.
 
 | Plugin | Npm |
 |--------|-----|
-| [@vangojs/vuepress-plugin-back-to-top](./packages/vuepress-plugin-back-to-top) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-back-to-top)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-back-to-top) |
-| [@vangojs/vuepress-plugin-baidu-analytics](./packages/vuepress-plugin-baidu-analytics) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-baidu-analytics)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-baidu-analytics) |
-| [@vangojs/vuepress-plugin-google-analytics](./packages/vuepress-plugin-google-analytics) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-google-analytics)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-google-analytics) |
-| [@vangojs/vuepress-theme-vango](./packages/vuepress-theme-vango) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-theme-vango)](https://www.npmjs.com/package/@vangojs/vuepress-theme-vango) |
-| [@vangojs/vuepress-theme-vango-cli](./packages/vuepress-theme-vango-cli) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-theme-vango-cli)](https://www.npmjs.com/package/@vangojs/vuepress-theme-vango-cli) |
+| [@vangojs/cli](./packages/@vangojs/cli) | [![Npm](https://img.shields.io/npm/v/@vangojs/cli)](https://www.npmjs.com/package/@vangojs/cli) |
+| [@vangojs/vuepress-plugin-back-to-top](./packages/@vangojs/vuepress-plugin-back-to-top) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-back-to-top)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-back-to-top) |
+| [@vangojs/vuepress-plugin-baidu-analytics](./packages/@vangojs/vuepress-plugin-baidu-analytics) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-baidu-analytics)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-baidu-analytics) |
+| [@vangojs/vuepress-plugin-google-analytics](./packages/@vangojs/vuepress-plugin-google-analytics) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-plugin-google-analytics)](https://www.npmjs.com/package/@vangojs/vuepress-plugin-google-analytics) |
+| [@vangojs/vuepress-theme-vango](./packages/@vangojs/vuepress-theme-vango) | [![Npm](https://img.shields.io/npm/v/@vangojs/vuepress-theme-vango)](https://www.npmjs.com/package/@vangojs/vuepress-theme-vango) |
 
 ## Contributors
 

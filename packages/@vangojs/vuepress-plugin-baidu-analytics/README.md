@@ -1,4 +1,4 @@
-# vuepress plugin baidu analytics
+# @vangojs/vuepress-plugin-baidu-analytics
 
 
 
