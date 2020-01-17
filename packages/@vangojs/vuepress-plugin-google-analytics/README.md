@@ -1,4 +1,4 @@
-# vuepress plugin google analytics
+# @vangojs/vuepress-plugin-google-analytics
 
 
 

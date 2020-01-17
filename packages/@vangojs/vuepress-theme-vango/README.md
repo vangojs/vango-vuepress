@@ -1,4 +1,4 @@
-# vuepress theme vango
+# @vangojs/vuepress-theme-vango
 
 
 
